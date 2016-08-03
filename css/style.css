@@ -1,0 +1,16 @@
+h2.intro{
+  font-size: 20px;
+}
+
+.intro{
+  color: red;
+}
+
+p.intro{
+  font-style: oblique;
+}
+
+img.intro{
+  height: 400px;
+  width: 400px;
+}
